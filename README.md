@@ -14,6 +14,6 @@ where, Inputs to the model --> x - no.of rows (5D distance apart); D - turbine r
                                   power - power of the best performing layout at each generation
                                   cos - cost of the best performing layout at each generation
                                   n_t - no.of turbines in the best performing layout at each generation
-                                  eff - efficiency of the ebst performing layout at each generation
+                                  eff - efficiency of the best performing layout at each generation
                                   n - no.of generations/iterrations completed
 ```
